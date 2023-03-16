@@ -1,4 +1,4 @@
-#👋 Hey there, I'm Alan!
+# 👋 Hey there, I'm Alan!
 
 I'm a passionate developer who loves to create amazing things with code. My main focus for the last year and a half has been on a closed source enterprise application, which is why I don't have a public GitHub history.
 
