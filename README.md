@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Alan!
+# 👋 Hey,
 
 ### 💻 Code
 I specialize in React and Elixir development. My expertise in React has allowed me to build dynamic and interactive user interfaces, while my experience with Elixir has allowed me to build robust and scalable backend systems.
