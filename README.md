@@ -6,5 +6,7 @@ I specialize in React and Elixir development. My expertise in React has allowed 
 ### 🏂 When I'm Not Coding
 When I'm not coding, I enjoy staying active with hobbies like snowboarding and golf. 
 
+### 🤐 Workin' on some secret stuff 🤫
+
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/alan-mamulski/). 🤝
 
